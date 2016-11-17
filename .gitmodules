@@ -1,0 +1,3 @@
+[submodule "server-side-rendering"]
+	path = server-side-rendering
+	url = https://github.com/shellyjindal10/server-side-rendering.git
